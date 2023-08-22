@@ -1,1 +1,6 @@
-# Chadolbaegi128.github.io
+#### 지원자 성명
+-정연준
+
+## 사전과제
+라이브러리를 사용하지 않고 HTML, CSS, JavaScript만을 사용해서
+웹 페이지 만들기
